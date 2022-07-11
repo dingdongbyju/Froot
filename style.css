@@ -1,0 +1,19 @@
+  #image {
+    height:100;
+  }
+
+  body {
+    font-family: 'Trebuchet MS';
+  }
+
+  button {
+    background-color: gold;
+    color: white;
+    height: 50;
+    width: 75;
+    font-family: 'Verdana';
+    border-color: goldenrod;
+    border-radius: 15px;
+
+  }
+  
